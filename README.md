@@ -1,9 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Hello%20HeunDev.&fontSize=70&animation=twinkling&fontColor=ffffff&fontAlignY=40" alt="header" style="width: 100%;">
 
 <div align="right">
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23D367F1&title_bg=%23494141&icon=&icon_color=%23D3D3D3&title=Welcome+Heun%27s&edge_flat=false" alt="Hits" style="margin-right: 20px;">
-  </a>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiheunkim%2Fhit-counter&count_bg=%23D367F1&title_bg=%23494141&icon=&icon_color=%23D3D3D3&title=Welcome+Heun%27s&edge_flat=false?" alt="Hits" style="margin-right: 20px;">
   <br></br>
 </div>
 
