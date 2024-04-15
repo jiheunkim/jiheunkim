@@ -45,7 +45,7 @@
 | [동아리 '멋쟁이사자처럼' 리쿠르팅 사이트 개발](https://github.com/jiheunkim/LikeLionRecruit) | 멋쟁이사자처럼 건국대학교 |       React        |   -   | 2023 |
 | [나만의 소비 캐릭터 생성 서비스 : 달리커쳐](https://github.com/jiheunkim/Syncaton) | 싱커톤 시즌3 해커톤 |       React        | 본선 진출 | 2023 |
 | [함께 걷는 플로깅 서비스 : CO-GGING](https://github.com/jiheunkim/cogging) | 멋쟁이사자처럼 미르톤 |       React        | 참여 | 2023 |
-| [건국대학교 밥 약속 매칭 어플리케이션 : 밥먹자KU](https://github.com/jiheunkim/bobmukjaKU-FE) | 학부 졸업프로젝트 |       Kotlin        | 참여 | 2023 |
+| [건국대학교 밥 약속 매칭 어플리케이션 : 밥먹자KU](https://github.com/jiheunkim/bobmukjaKU-FE) | 학부 졸업프로젝트 |       Kotlin        |   -   | 2023 |
 
 <br><br>
 
