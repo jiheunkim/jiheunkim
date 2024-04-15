@@ -31,6 +31,24 @@
 
 <br></br>
 
+## 🌱 Projects
+
+|                                              Project                                              |               Contest                |       Tech Stack       | Award | Year |
+| :-----------------------------------------------------------------------------------------------: | :----------------------------------: | :--------------------: | :---: | :--: |
+| [미션 기반 채팅 서비스 : Tiki-Taka](https://github.com/jiheunkim/Tiki-Taka) | 학부 K-Lab 프로젝트 |       Kotlin        |   -   | 2023 |
+| [가계부+더치페이 서비스 : Togyether](https://github.com/jiheunkim/Togyether) | 학부 모바일프로그래밍 프로젝트 |       Kotlin        |   -   | 2023 |
+| [해외 가상화폐 뉴스 번역 서비스 : Coinicorn](https://github.com/jiheunkim/Coinicorn) | 멋쟁이사자처럼 연합해커톤 |       React        | 본선 진출(8/314) | 2023 |
+| [자폐 아동 미술·음악 치료 서비스 : 유달리(U-Dalle)](https://github.com/jiheunkim/UDalle) | Prompter Day Seoul 2023(Generative AI 해커톤) |       React        | 참여 | 2023 |
+| [뇌졸중 조기진단 서비스 : LLapport](https://github.com/jiheunkim/LLapport) | KU 2023 메디컬 해커톤 |       React        | 장려상 | 2023 |
+| [이미지 문서 오토라벨링 서비스 : DAWAT](https://github.com/jiheunkim/Dawat) | 학부 산학협력프로젝트 |       React        |   -   | 2023 |
+| [팀플 일정 간편화 서비스 : 모이(moi)](https://github.com/jiheunkim/moi) | 학부 UX디자인 프로젝트 |       Kotlin        |   -   | 2023 |
+| [동아리 '멋쟁이사자처럼' 리쿠르팅 사이트 개발](https://github.com/jiheunkim/LikeLionRecruit) | 멋쟁이사자처럼 건국대학교 |       React        |   -   | 2023 |
+| [나만의 소비 캐릭터 생성 서비스 : 달리커쳐](https://github.com/jiheunkim/Syncaton) | 싱커톤 시즌3 해커톤 |       React        | 본선 진출 | 2023 |
+| [함께 걷는 플로깅 서비스 : CO-GGING](https://github.com/jiheunkim/cogging) | 멋쟁이사자처럼 미르톤 |       React        | 참여 | 2023 |
+| [건국대학교 밥 약속 매칭 어플리케이션 : 밥먹자KU](https://github.com/jiheunkim/bobmukjaKU-FE) | 학부 졸업프로젝트 |       Kotlin        | 참여 | 2023 |
+
+<br><br>
+
 ## 🛠️ Tech Stacks
 <div>
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
