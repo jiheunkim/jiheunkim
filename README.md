@@ -33,6 +33,7 @@
 | [나만의 소비 캐릭터 생성 서비스 : 달리커쳐](https://github.com/jiheunkim/Syncaton) | 싱커톤 시즌3 해커톤 |       React        | 본선 진출 | 2023 |
 | [함께 걷는 플로깅 서비스 : CO-GGING](https://github.com/jiheunkim/cogging) | 멋쟁이사자처럼 미르톤 |       React        | 참여 | 2023 |
 | [건국대학교 밥 약속 매칭 어플리케이션 : 밥먹자KU](https://github.com/jiheunkim/bobmukjaKU-FE) | 학부 졸업프로젝트 |       Kotlin        |   -   | 2023 |
+| [AI 기반 단어 카드 서비스 : 뽑아보카](https://github.com/jiheunkim/BbobaVoca) | 2024 Epson Challenge |       React        |   장려상   | 2024 |
 
 <br><br>
 
@@ -41,6 +42,7 @@
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
 </div>
