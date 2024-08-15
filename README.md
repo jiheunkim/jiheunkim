@@ -6,7 +6,7 @@
 </div>
 
 # Welcome to Jiheun's Dev!🐹🐣
-### 다양한 사람들과 함께하며 얻는 시너지를 좋아하는 프론트엔드 개발자 김지흔입니다🥰
+### 다양한 사람들과 함께하며 얻는 시너지를 좋아하는 서비스 기획자 김지흔입니다🥰
 
 <br></br>
 
@@ -34,6 +34,7 @@
 | [함께 걷는 플로깅 서비스 : CO-GGING](https://github.com/jiheunkim/cogging) | 멋쟁이사자처럼 미르톤 |       React        | 참여 | 2023 |
 | [건국대학교 밥 약속 매칭 어플리케이션 : 밥먹자KU](https://github.com/jiheunkim/bobmukjaKU-FE) | 학부 졸업프로젝트 |       Kotlin        |   -   | 2023 |
 | [AI 기반 단어 카드 서비스 : 뽑아보카](https://github.com/jiheunkim/BbobaVoca) | 2024 Epson Challenge |       React        |   장려상   | 2024 |
+| [한 페이지가 될 수 있게](https://github.com/jiheunkim/Innocean) | 2024 INNOCEAN S.O.S |   -   |   -   | 2024 |
 
 <br><br>
 
