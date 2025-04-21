@@ -1,9 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Hello%20HeunDev.&fontSize=70&animation=twinkling&fontColor=ffffff&fontAlignY=40" alt="header" style="width: 100%;">
 
-<div align="right">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiheunkim%2Fhit-counter&count_bg=%23D367F1&title_bg=%23494141&icon=&icon_color=%23D3D3D3&title=Welcome+Heun%27s&edge_flat=false?" alt="Hits" style="margin-right: 20px;">
-  <br></br>
-</div>
 
 # Welcome to Jiheun's Dev!🐹🐣
 ### 다양한 사람들과 함께하며 얻는 시너지를 좋아하는 서비스 기획자 김지흔입니다🥰
@@ -22,7 +18,7 @@
 
 |                                              Project                                              |               Contest                |       Role       | Award | Year |
 | :-----------------------------------------------------------------------------------------------: | :----------------------------------: | :--------------------: | :---: | :--: |
-| [웨이팅 없이 바로 즐기는 티켓팅 서비스 : UKET](https://uket.site/) | 사이드 프로젝트 |       PM       |   -   | 2024 |
+| [웨이팅 없이 바로 즐기는 티켓팅 서비스 : UKET](https://drive.google.com/file/d/1lJDy5KuvRmjb_3zE2t2CAeDlxAx3vK4W/view?usp=sharing) | 사이드 프로젝트 |       PM       |   -   | 2024 |
 | [AI 기반 단어 카드 서비스 : 뽑아보카](https://github.com/jiheunkim/BbobaVoca) | 2024 Epson Challenge |       PM, FE Developer       |   장려상   | 2024 |
 | [AI 기반 맞춤형 역사 교육 여행 일정 서비스 : 아이러닝](https://github.com/AI-iLearning/AI-Learning) | 2024 관광데이터 활용 공모전 |       PM, FE Developer       |   우수상   | 2024 |
 | [뇌졸중 조기진단 서비스 : LLapport](https://github.com/jiheunkim/LLapport) | KU 2023 메디컬 해커톤 |       PM, FE Developer       | 장려상 | 2023 |
