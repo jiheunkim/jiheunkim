@@ -18,7 +18,7 @@
 
 |                                              Project                                              |               Contest                |       Role       | Award | Year |
 | :-----------------------------------------------------------------------------------------------: | :----------------------------------: | :--------------------: | :---: | :--: |
-| [웨이팅 없이 바로 즐기는 티켓팅 서비스 : UKET](https://lava-jaborosa-132.notion.site/UKET-1dfd687f7bb68057ad48c612cc638b70?pvs=4) | 사이드 프로젝트 |       PM       |   -   | 2024 |
+| [웨이팅 없이 바로 즐기는 티켓팅 서비스 : UKET](https://lava-jaborosa-132.notion.site/UKET-1dfd687f7bb68057ad48c612cc638b70?pvs=4) | 사이드 프로젝트 |       PM       |   -   | 2025 |
 | [AI 기반 단어 카드 서비스 : 뽑아보카](https://github.com/jiheunkim/BbobaVoca) | 2024 Epson Challenge |       PM, FE Developer       |   장려상   | 2024 |
 | [AI 기반 맞춤형 역사 교육 여행 일정 서비스 : 아이러닝](https://github.com/AI-iLearning/AI-Learning) | 2024 관광데이터 활용 공모전 |       PM, FE Developer       |   우수상   | 2024 |
 | [뇌졸중 조기진단 서비스 : LLapport](https://github.com/jiheunkim/LLapport) | KU 2023 메디컬 해커톤 |       PM, FE Developer       | 장려상 | 2023 |
